@@ -39,13 +39,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AWS</b>
-  - [Cloud based Home Lab using AWS]()
+  - [Cloud-based Home Lab using AWS]()
 - <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)]()
+  - [FIM (File Integrity Monitor)](https://github.com/CyberfolioChronicles/FIM)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)]()
-  - [Ransomware Proof of Concept (Decrypter)]()
-  - [Keylogger with Email Capability]()
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/CyberfolioChronicles/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/CyberfolioChronicles/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/CyberfolioChronicles/Keylogger)
 
 <h2>📺 YouTube Videos</h2>
 
