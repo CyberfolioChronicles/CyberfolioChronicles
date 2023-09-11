@@ -39,7 +39,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AWS</b>
-  - [Cloud-based Home Lab using AWS]()
+  - [Cloud-based Home Lab using AWS](https://github.com/CyberfolioChronicles/AWS/tree/main)
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/CyberfolioChronicles/FIM)
 - <b>C# (.NET Desktop Applications)</b>
@@ -51,8 +51,8 @@
 
 - [Cyber Security Portfolio Project: FIM with PowerShell](https://youtu.be/uDd5R2uEIL0)
 - [Building Your Cloud-based Home Lab with AWS | Step-by-Step Demonstration & Tutorial](https://youtu.be/xh2xLN_uBlE)
-- [How to Create a KeyLogger (C#)]()
-- [Ransomware Demonstration (C#)]()
+- [How to Create a KeyLogger (C#)]
+- [Ransomware Demonstration (C#)]
   
  <h2>🐍 My Contributions 🐍</h2>
   <br>
