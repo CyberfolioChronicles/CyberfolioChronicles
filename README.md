@@ -38,19 +38,24 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Azure Sentinel</b>
+  - [Live observation of RDP Brute force attacks using Azure Sentinel](https://github.com/CyberfolioChronicles/Azure_Sentinel_Lab)
 - <b>AWS</b>
-  - [Cloud-based Home Lab using AWS](https://github.com/CyberfolioChronicles/AWS/tree/main)
+  - [Cloud-based Home Lab using AWS](https://github.com/CyberfolioChronicles/AWS)
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/CyberfolioChronicles/FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/CyberfolioChronicles/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/CyberfolioChronicles/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/CyberfolioChronicles/Keylogger)
+- <b>WEBSITE</b>
+  - [Complete code for my website](https://github.com/CyberfolioChronicles/My_Website_Code)
 
 <h2>📺 YouTube Videos</h2>
 
 - [Cyber Security Portfolio Project: FIM with PowerShell](https://youtu.be/uDd5R2uEIL0)
 - [Building Your Cloud-based Home Lab with AWS | Step-by-Step Demonstration & Tutorial](https://youtu.be/xh2xLN_uBlE)
+- [Securing Networks with Azure Sentinel: Live RDP Brute Force Attacks and Geolocation Tracking!]
 - [How to Create a KeyLogger (C#)]
 - [Ransomware Demonstration (C#)]
   
