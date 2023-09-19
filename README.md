@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Splunk & Azure Sentinel**
 
- ⚡ Fun fact about SOC Analyst is **They often refer to false alarms as "unicorn alerts" due to their rarity in an environment filled with numerous alerts and threats.**
+ ⚡ Fun fact about SOC analysts is **They often refer to false alarms as "unicorn alerts" due to their rarity in an environment filled with numerous alerts and threats.**
  
  </div>
 
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/jayesh-kakkad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://jayesh-kakkad.com/" target="_blank">
      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
