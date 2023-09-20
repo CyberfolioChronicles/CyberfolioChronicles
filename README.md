@@ -55,7 +55,7 @@
 
 - [Cyber Security Portfolio Project: FIM with PowerShell](https://youtu.be/uDd5R2uEIL0)
 - [Building Your Cloud-based Home Lab with AWS | Step-by-Step Demonstration & Tutorial](https://youtu.be/xh2xLN_uBlE)
-- [Securing Networks with Azure Sentinel: Live RDP Brute Force Attacks and Geolocation Tracking!]
+- [Securing Networks with Azure Sentinel: Live RDP Brute Force Attacks and Geolocation Tracking!](https://www.youtube.com/watch?v=yU_YuGYtJGU)
 - [How to Create a KeyLogger (C#)]
 - [Ransomware Demonstration (C#)]
   
