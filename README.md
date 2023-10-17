@@ -44,6 +44,8 @@
   - [Cloud-based Home Lab using AWS](https://github.com/CyberfolioChronicles/AWS)
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/CyberfolioChronicles/FIM)
+- <b>Nessus</b>
+  - [Vulnerability Management](https://github.com/CyberfolioChronicles/NESSUS)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/CyberfolioChronicles/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/CyberfolioChronicles/DecrypterPOC)
@@ -57,7 +59,8 @@
 - [Building Your Cloud-based Home Lab with AWS | Step-by-Step Demonstration & Tutorial](https://youtu.be/xh2xLN_uBlE)
 - [Securing Networks with Azure Sentinel: Live RDP Brute Force Attacks and Geolocation Tracking!](https://www.youtube.com/watch?v=yU_YuGYtJGU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=5Ei_qff_5Wk&t=8s)
-- [Ransomware Demonstration (C#)]
+- [Ransomware Demonstration (C#)](https://youtu.be/dab8pQ5UVjs?si=rTbHbLYjPPyy0hVq)
+- [Vulnerability Management with Nessus Essentials](https://youtu.be/mnjxUoBTyKs?si=8334AFSz9F-1BVMG)
   
  <h2>🐍 My Contributions 🐍</h2>
   <br>
