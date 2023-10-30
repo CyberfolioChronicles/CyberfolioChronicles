@@ -38,6 +38,8 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Azure Sentinel Bootcamp</b>
+  - [Complete guide on Azure Sentinel](https://github.com/CyberfolioChronicles/Sentinel-Bootcamp)
 - <b>Azure Sentinel</b>
   - [Live observation of RDP Brute force attacks using Azure Sentinel](https://github.com/CyberfolioChronicles/Azure_Sentinel_Lab)
 - <b>AWS</b>
@@ -50,6 +52,16 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/CyberfolioChronicles/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/CyberfolioChronicles/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/CyberfolioChronicles/Keylogger)
+- <b>Python</b>
+  - [Basic Automation Projects](https://github.com/CyberfolioChronicles/Basic-Automation-Projects)
+  - [Intermediate Automation Projects](https://github.com/CyberfolioChronicles/Intermediate-Automation-Projects)
+  - [Basic Python Games](https://github.com/CyberfolioChronicles/Basic-Python-games)
+  - [Intermediate Python Games](https://github.com/CyberfolioChronicles/Intermediate-difficulty-games)
+  - [Python Mini Projects](https://github.com/CyberfolioChronicles/Python-Mini-Projects)
+  - [Advanced Python Topics](https://github.com/CyberfolioChronicles/Advanced-Python-Topics)
+  - [Python Tutorial](https://github.com/CyberfolioChronicles/Python-Tutorials)
+- <b>JavaScript</b>
+  - [JavaScript Projects](https://github.com/CyberfolioChronicles/JavaScript-Projects)
 - <b>WEBSITE</b>
   - [Complete code for my website](https://github.com/CyberfolioChronicles/My_Website_Code)
 
@@ -61,6 +73,7 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=5Ei_qff_5Wk&t=8s)
 - [Ransomware Demonstration (C#)](https://youtu.be/dab8pQ5UVjs?si=rTbHbLYjPPyy0hVq)
 - [Vulnerability Management with Nessus Essentials](https://youtu.be/mnjxUoBTyKs?si=8334AFSz9F-1BVMG)
+- [Azure Sentinel 8 Lab complete playlist](https://www.youtube.com/playlist?list=PLTNt8j7SunIDfFKRerAPNIGWuj16UfLgO)
   
  <h2>🐍 My Contributions 🐍</h2>
   <br>
