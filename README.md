@@ -38,6 +38,12 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>CTF Documentations</b>
+  - [Horizontall Hackthebox]()
+  - [Backdoor Hackthebox]()
+  - [Antique Hackthebox]()
+  - [Mr. Robot TryHackMe]()
+  - [Blog TryHackMe]()
 - <b>Azure Sentinel Bootcamp</b>
   - [Complete guide on Azure Sentinel](https://github.com/CyberfolioChronicles/Sentinel-Bootcamp)
 - <b>Azure Sentinel</b>
