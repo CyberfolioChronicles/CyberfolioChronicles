@@ -49,7 +49,7 @@
 - <b>JavaScript</b>
   - [JavaScript Projects](https://github.com/CyberfolioChronicles/JavaScript-Projects)
 - <b>C++</b>
-  - [C++ Projects](https://github.com/CyberfolioChronicles/JavaScript-Projects)
+  - [C++ Projects](https://github.com/CyberfolioChronicles/C-Projects)
 - <b>WEBSITE</b>
   - [Complete code for my website](https://github.com/CyberfolioChronicles/My_Website_Code)
 - <b>Azure Sentinel Bootcamp</b>
