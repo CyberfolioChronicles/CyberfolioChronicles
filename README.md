@@ -38,6 +38,20 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Python</b>
+  - [Basic Automation Projects](https://github.com/CyberfolioChronicles/Basic-Automation-Projects)
+  - [Intermediate Automation Projects](https://github.com/CyberfolioChronicles/Intermediate-Automation-Projects)
+  - [Basic Python Games](https://github.com/CyberfolioChronicles/Basic-Python-games)
+  - [Intermediate Python Games](https://github.com/CyberfolioChronicles/Intermediate-difficulty-games)
+  - [Python Mini Projects](https://github.com/CyberfolioChronicles/Python-Mini-Projects)
+  - [Advanced Python Topics](https://github.com/CyberfolioChronicles/Advanced-Python-Topics)
+  - [Python Tutorial](https://github.com/CyberfolioChronicles/Python-Tutorials)
+- <b>JavaScript</b>
+  - [JavaScript Projects](https://github.com/CyberfolioChronicles/JavaScript-Projects)
+- <b>C++</b>
+  - [C++ Projects](https://github.com/CyberfolioChronicles/JavaScript-Projects)
+- <b>WEBSITE</b>
+  - [Complete code for my website](https://github.com/CyberfolioChronicles/My_Website_Code)
 - <b>Azure Sentinel Bootcamp</b>
   - [Complete guide on Azure Sentinel](https://github.com/CyberfolioChronicles/Sentinel-Bootcamp)
 - <b>Azure Sentinel</b>
@@ -52,18 +66,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/CyberfolioChronicles/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/CyberfolioChronicles/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/CyberfolioChronicles/Keylogger)
-- <b>Python</b>
-  - [Basic Automation Projects](https://github.com/CyberfolioChronicles/Basic-Automation-Projects)
-  - [Intermediate Automation Projects](https://github.com/CyberfolioChronicles/Intermediate-Automation-Projects)
-  - [Basic Python Games](https://github.com/CyberfolioChronicles/Basic-Python-games)
-  - [Intermediate Python Games](https://github.com/CyberfolioChronicles/Intermediate-difficulty-games)
-  - [Python Mini Projects](https://github.com/CyberfolioChronicles/Python-Mini-Projects)
-  - [Advanced Python Topics](https://github.com/CyberfolioChronicles/Advanced-Python-Topics)
-  - [Python Tutorial](https://github.com/CyberfolioChronicles/Python-Tutorials)
-- <b>JavaScript</b>
-  - [JavaScript Projects](https://github.com/CyberfolioChronicles/JavaScript-Projects)
-- <b>WEBSITE</b>
-  - [Complete code for my website](https://github.com/CyberfolioChronicles/My_Website_Code)
+
 
 <h2>📺 YouTube Videos</h2>
 
