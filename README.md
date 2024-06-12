@@ -3,16 +3,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jayesh+Kakkad!;" />
 </h1>
-<h3 align="center"><a href="https://www.linkedin.com/in/jayesh-kakkad">Passionate Cybersecurity Enthusiast</a> working on <a href="https://www.youtube.com/@Cyberfolio_Chronicles">IT & Cybersecurity Projects</a></h1>
+<h3 align="center"><a href="https://www.linkedin.com/in/jayesh-kakkad">Full Stack Developer & Passionate Cybersecurity Enthusiast</a> running a <a href="https://www.youtube.com/@Cyberfolio_Chronicles"> Youtube channel on IT & Cybersecurity Topics</a></h1>
 </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Getting my Security+ & BTL1 Certification**
+ 🔭 I’m currently working on **Getting my OSCP Certification**
  
- 🌱 I’m currently learning **Splunk & Azure Sentinel**
+ 🌱 I’m currently learning **Web Exploit & Web Testing**
 
  ⚡ Fun fact about SOC analysts is **They often refer to false alarms as "unicorn alerts" due to their rarity in an environment filled with numerous alerts and threats.**
  
@@ -29,12 +29,6 @@
      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
-
-<h2> Certifications</h2> 
-
-- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/professional-cert/2WFSZ5R44KSU)
-- [CompTIA Security+ (Ongoing)]
-- [Blue Team Level 1 SOC Analyst (Ongoing)]
   
 <h2>👨‍💻 Projects:</h2>
 
